@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "asalarch.com/static/css/main.b2533988.chunk.css",
-    "main.js": "asalarch.com/static/js/main.522de1b4.chunk.js",
-    "main.js.map": "asalarch.com/static/js/main.522de1b4.chunk.js.map",
-    "runtime~main.js": "asalarch.com/static/js/runtime~main.18f2f9cb.js",
-    "runtime~main.js.map": "asalarch.com/static/js/runtime~main.18f2f9cb.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "asalarch.com/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.2d5db628.chunk.js": "asalarch.com/static/js/2.2d5db628.chunk.js",
-    "static/js/2.2d5db628.chunk.js.map": "asalarch.com/static/js/2.2d5db628.chunk.js.map",
-    "index.html": "asalarch.com/index.html",
-    "precache-manifest.b1777f8a7d8e950c1c3746e7b7ce35e7.js": "asalarch.com/precache-manifest.b1777f8a7d8e950c1c3746e7b7ce35e7.js",
-    "service-worker.js": "asalarch.com/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "asalarch.com/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.b2533988.chunk.css.map": "asalarch.com/static/css/main.b2533988.chunk.css.map"
+    "main.css": "/asal_web_site/static/css/main.b2533988.chunk.css",
+    "main.js": "/asal_web_site/static/js/main.a6358253.chunk.js",
+    "main.js.map": "/asal_web_site/static/js/main.a6358253.chunk.js.map",
+    "runtime~main.js": "/asal_web_site/static/js/runtime~main.85d1fbf5.js",
+    "runtime~main.js.map": "/asal_web_site/static/js/runtime~main.85d1fbf5.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/asal_web_site/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.2d5db628.chunk.js": "/asal_web_site/static/js/2.2d5db628.chunk.js",
+    "static/js/2.2d5db628.chunk.js.map": "/asal_web_site/static/js/2.2d5db628.chunk.js.map",
+    "index.html": "/asal_web_site/index.html",
+    "precache-manifest.e492cb1b9267c247201328f464b4f544.js": "/asal_web_site/precache-manifest.e492cb1b9267c247201328f464b4f544.js",
+    "service-worker.js": "/asal_web_site/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/asal_web_site/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.b2533988.chunk.css.map": "/asal_web_site/static/css/main.b2533988.chunk.css.map"
   }
 }
